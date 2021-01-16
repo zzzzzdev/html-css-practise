@@ -1,0 +1,43 @@
+.first{
+    text-align:center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom:15%;
+    margin-top: 20%;
+    color:white;
+}
+.second{
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom:13%;
+    margin-top: 10%;
+    color:white;
+}
+.third{
+    text-align: center;
+    margin-bottom: 15%;
+    margin-top:10%;
+    float:left;
+    margin-left: 15%;
+    color:lavender;
+}
+.third img{
+    display:block;
+    margin-bottom: 10px;
+}
+.forth{
+    text-align: center;
+    margin-bottom: 15%;
+    margin-top:10%;
+    margin-right: 15%;
+    float:right;
+    color:white;
+}
+.forth img{/*也可以对每一个div里面的图片进行css设置*/
+   display:block;/*一定要将图片block掉**/
+    margin-bottom: 10px;
+}
+body{
+    background-color: rgb(104,205,213);
+}
